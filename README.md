@@ -101,7 +101,7 @@ The model is initially trained on input and a label. After training, the trained
 #### 3. Label Powerset
 
 This method will consider cases with the same labels and group them into one class. As in the example below, x1 and x4 have the same label so they will be grouped into one class, similarly with x3 and x6.
-<image link= "images/br4.png"> </image>
+![Image Alt Text](image/br4.png)
 
 #### 4. Result
 
