@@ -42,6 +42,7 @@ We have divided the dataset into 2 sets and proceeded to label (2 people label 1
 
 ![Data visualization chart](images/datavs.png)
 
+Chart describing the number of samples of each label in order: texture, transportation, price, packaging, service, fragrance, durability, color
 ## Data Processing
 
 ### Data Preprocessing
