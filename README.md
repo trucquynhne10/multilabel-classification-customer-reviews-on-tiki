@@ -89,7 +89,7 @@ In this report scope, we present the use of the Problem Transformation method. I
 
 Each label will be considered as a separate classification problem.
 
-For example, in the case below With X as the feature and Y as the labels. the problem above will be divided into 4 separate small problems (4 labels).
+For example, in the case below With X as the feature and Y as the labels. the problem above will be divided into 4 separate small problems (4 labels). <br>
 ![Binary Relevance](images/br1.png)
 ![Example](images/br2.png)
 
