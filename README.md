@@ -40,7 +40,7 @@ We have divided the dataset into 2 sets and proceeded to label (2 people label 1
 
 ### 4. Data visualization
 
-<image link="images/datavs.png"> </image>
+![Data visualization chart](images/datavs.png)
 
 ## Data Processing
 
@@ -87,21 +87,21 @@ In this report scope, we present the use of the Problem Transformation method. I
 
 Each label will be considered as a separate classification problem.
 
-<image link= "images/br1.png"> </image>
+![Binary Relevance](images/br1.png)
 
 For example, in the case below With X as the feature and Y as the labels. the problem above will be divided into 4 separate small problems (4 labels).
-<image link= "images/br2.png"> </image>
+![Example](images/br2.png)
 
 #### 2. Classifier Chains
 
 The model is initially trained on input and a label. After training, the trained label will become the input and continue training to predict the next label.
 
-<image link= "images/br3.png"> </image>
+![Classifier Chains](images/br3.png)
 
 #### 3. Label Powerset
 
 This method will consider cases with the same labels and group them into one class. As in the example below, x1 and x4 have the same label so they will be grouped into one class, similarly with x3 and x6.
-![Image Alt Text](image/br4.png)
+![Label Powerset](images/br4.png)
 
 #### 4. Result
 
