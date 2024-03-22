@@ -131,7 +131,8 @@ We tested on SVM, NB, RF models, KNN, Logistic Regression and the results table 
 
 ## Conclusion
 
-We have built a dataset for the customer review classification problem on the e-commerce platform, consisting of over 3500 samples with 8 related labels and 2 labels being 0 and 1. We have trained the dataset and predicted customer product reviews into labels regarding quality or product information as the initial goal. We have conducted this project through steps of data collection and processing, feature extraction, model training, and evaluation. With the results obtained, the Binary Relevance method yielded the best outcome, and the Classifier Chains method had a similar result, achieving the highest performance on the Random Forest model. However, we encountered many issues in the data such as the imbalance between labels 0 and 1.
+- We have built a dataset for the customer review classification problem on the e-commerce platform, consisting of over 3500 samples with 8 related labels and 2 labels being 0 and 1. 
+- We have trained the dataset and predicted customer product reviews into labels regarding quality or product information as the initial goal. We have conducted this project through steps of data collection and processing, feature extraction, model training, and evaluation. With the results obtained, the Binary Relevance method yielded the best outcome, and the Classifier Chains method had a similar result, achieving the highest performance on the Random Forest model. However, we encountered many issues in the data such as the imbalance between labels 0 and 1.
 
 ### Demo website video
 
