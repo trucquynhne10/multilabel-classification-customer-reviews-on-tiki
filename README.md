@@ -24,7 +24,8 @@ The process involved:
 -   <b>Fragrance</b>: suitable for each individual's condition. For example: allergic skin to certain scents.
 -   <b>Texture</b>: suitable for each individual's condition. For example: oily skin: use gel or serum products.
 -   <b>Longevity</b>: tailored to each individual's usage needs.
-    For example: long-lasting lipstick, oil control, waterproof. - <b>Color</b>: tailored to each individual's usage needs.
+    For example: long-lasting lipstick, oil control, waterproof.
+- <b>Color</b>: tailored to each individual's usage needs.
     For example: choose a lipstick color based on personal preference.
     Additionally, we use 3 labels to provide additional product information:
 -   <b>Shipping</b>: delivery service, delivery time, delivery person.
@@ -88,9 +89,8 @@ In this report scope, we present the use of the Problem Transformation method. I
 
 Each label will be considered as a separate classification problem.
 
-![Binary Relevance](images/br1.png)
-
 For example, in the case below With X as the feature and Y as the labels. the problem above will be divided into 4 separate small problems (4 labels).
+![Binary Relevance](images/br1.png)
 ![Example](images/br2.png)
 
 #### 2. Classifier Chains
